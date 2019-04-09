@@ -1,2 +1,2 @@
 # dashforge
-Premium Quality Responsive Bootstrap 4 Dashboard Template
+Premium Quality Responsive Bootstrap 4 Dashboard Template - FREE version.
